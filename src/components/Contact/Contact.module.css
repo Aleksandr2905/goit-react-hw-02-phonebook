@@ -21,3 +21,7 @@
   background-color: blue;
   color: yellow;
 }
+
+.btnDelete:hover {
+  background-color: rgb(1, 1, 121);
+}
